@@ -1,1 +1,2 @@
-# Finance-assistance
+
+A Gen-AI powered financial assistant bot that will help the consumers who require assistance , whether it is about navigating the banks website or highly specific queries regarding policies  , whose answers may not be easily inferable from the FAQs , especially for first time users or senior citizens and so on . Our bot also helps users get financial advice given their current assets by providing users with options about which policies might be right for them , how to manage their finances in a way that it accomplishes their objectives etc . 
